@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(
+    112.1deg,
+    rgb(13, 15, 22) 18.6%,
+    rgb(91, 110, 173) 60%
+  );
+}
+img {
+  width: 170px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 300px;
+  border: 2px solid;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "DynaPuff", cursive;
+  font-size: 30px;
+}
+p {
+  color: white;
+  text-align: center;
+}
+em {
+  color: rgba(255, 255, 255, 0.616);
+}
